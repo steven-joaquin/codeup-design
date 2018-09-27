@@ -1,3 +1,12 @@
+:root {
+    --red-color: #E6563B;
+    --orange-color: #EB9D3A;
+    --green-color: #7CB06C;
+    --blue-color: #00ABA9;
+    --lgt-gray-color: #F0f0f0;
+    --drk-gray-color: #E6E6E6;
+}
+
 * {
     font-family: 'Abel', sans-serif;
 }
@@ -8,6 +17,28 @@ h5, h6 {
     font-family: 'Anton', sans-serif;
 }
 
+.red-background {
+    background-color: var(--red-color);
+}
+.orange-background {
+    background-color: var(--orange-color);
+}
+.green-background {
+    background-color: var(--green-color);
+}
+.blue-background {
+    background-color: var(--blue-color);
+}
+
+.badge {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    color: var(--lgt-gray-color);
+    font-size: 30px;
+    border: solid #fff 10px;
+}
 .navbar {
     height: 8em;
     margin-top: 70px;
