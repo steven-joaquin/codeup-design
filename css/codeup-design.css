@@ -31,10 +31,10 @@ h5, h6 {
 }
 
 .badge {
-    border-radius: 50%;
+    border-radius: 75px;
     width: 150px;
     height: 150px;
-    line-height: 150px;
+    line-height: 125px;
     color: var(--lgt-gray-color);
     font-size: 30px;
     border: solid #fff 10px;
