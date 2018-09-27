@@ -39,6 +39,14 @@ h5, h6 {
     font-size: 30px;
     border: solid #fff 10px;
 }
+
+.img-bg {
+        padding: 9px;
+        background: lightgray;
+        border-radius: 10px;
+        margin: 5px;
+    }
+
 .navbar {
     height: 8em;
     margin-top: 70px;
