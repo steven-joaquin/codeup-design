@@ -40,12 +40,13 @@ h5, h6 {
     border: solid #fff 10px;
 }
 
-.img-bg {
-        padding: 9px;
-        background: lightgray;
-        border-radius: 10px;
-        margin: 5px;
-    }
+/*.img-bg {*/
+        /*padding: 9px;*/
+        /*background: lightgray;*/
+        /*border-radius: 10px;*/
+    /*margin: ;*/
+
+    /*}*/
 
 .navbar {
     height: 8em;
