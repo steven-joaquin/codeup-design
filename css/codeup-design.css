@@ -98,7 +98,6 @@ i {
     text-align: center;
     display: inline-block;
     float: right;
-    margin-left: 6px;
     margin-top: 10px;
 
 
@@ -153,9 +152,6 @@ i {
         margin: 5px;
     }
 
-.test {
-    margin-left: 5px;
-}
 .hr {
     color: var(--drk-gray-color);
 }
