@@ -38,15 +38,14 @@ h5, h6 {
     color: var(--lgt-gray-color);
     font-size: 30px;
     border: solid #fff 10px;
+    margin: 15px;
 }
 
-/*.img-bg {*/
-        /*padding: 9px;*/
-        /*background: lightgray;*/
-        /*border-radius: 10px;*/
-    /*margin: ;*/
-
-    /*}*/
+.img-bg {
+    padding: 9px;
+    background: lightgray;
+    border-radius: 10px;
+}
 
 .navbar {
     height: 8em;
@@ -144,4 +143,8 @@ h5, h6 {
 
 .test {
     margin-left: 5px;
+}
+.hr{
+    color: var(--drk-gray-color);
+
 }
