@@ -17,6 +17,12 @@ h5, h6 {
     font-family: 'Anton', sans-serif;
 }
 
+
+
+i {
+    color: rgb(0, 158, 247);
+}
+
 .red-background {
     background-color: var(--red-color);
 }
@@ -39,6 +45,8 @@ h5, h6 {
     font-size: 30px;
     border: solid #fff 10px;
     margin: 15px;
+    padding: 5px;
+
 }
 
 .img-bg {
@@ -70,8 +78,15 @@ h5, h6 {
 .featured-project {
     flex-grow: 1;
     font-family: 'Abel', sans-serif;
-    font-size: 28px;
+    font-size: 1rem;
 }
+
+.img-fix {
+    height: 100px;
+    width: 100px;
+    overflow: auto;
+}
+
 
 
 .d-red {
@@ -130,9 +145,6 @@ h5, h6 {
 
 }
 
-.img-size {
-
-}
 
     .img-bg {
         padding: 9px;
@@ -144,7 +156,7 @@ h5, h6 {
 .test {
     margin-left: 5px;
 }
-.hr{
+.hr {
     color: var(--drk-gray-color);
-
 }
+
