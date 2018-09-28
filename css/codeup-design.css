@@ -58,3 +58,45 @@ h5, h6 {
     background: none;
     text-align: center;
 }
+
+.flex-container {
+    display: flex;
+}
+.dots {
+    flex-grow: 1;
+    line-height: 18px;
+}
+.featured-project {
+    flex-grow: 8;
+    font-family: 'Abel', sans-serif;
+    font-size: 28px;
+}
+.d-red {
+    font-family: 'Anton', sans-serif;
+    background-color: var(--red-color);
+    border-radius: 9px;
+    width: 18px;
+    height: 18px;
+
+}
+.d-orange {
+    background-color: var(--orange-color);
+    font-family: 'Anton', sans-serif;
+    border-radius: 9px;
+    width: 18px;
+    height: 18px;
+}
+.s-green {
+    background-color: var(--green-color);
+    font-family: 'Anton', sans-serif;
+    border-radius: 9px;
+    width: 18px;
+    height: 18px;
+}
+.h-blue {
+    background-color: var(--blue-color);
+    font-family: 'Anton', sans-serif;
+    border-radius: 9px;
+    width: 18px;
+    height: 18px;
+}
